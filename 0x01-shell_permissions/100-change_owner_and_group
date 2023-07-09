@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR vinvemt staff
+chown vincent:staff *
